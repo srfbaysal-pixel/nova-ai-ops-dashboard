@@ -1,7 +1,7 @@
 # Nova AI Ops Dashboard
 
 A production-oriented operations dashboard system built for AI products, SaaS applications, and developer teams.
-
+![Nova AI Ops Dashboard](nova-ai-ops-dashboard-preview.png)
 Nova AI Ops Dashboard was created as a reusable foundation for products that need visibility into system activity, usage, performance, operational status, and key business metrics from a single interface.
 
 Rather than treating a dashboard as a collection of disconnected charts, the kit organizes operational information into a consistent system designed around monitoring, investigation, and decision-making.
